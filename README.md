@@ -20,11 +20,12 @@
  - 팀원 : 김에스더 - 관리자 페이지, Q&A 게시판
 
 ### ⚙️ 사용 기술
-- **개발환경** : 스프링 부트 5
-- **개발도구** : git, intelliJ, vsCode, Dbeaver
-- **개발언어 및 프레임워크** : java, ajax, html, css, javaScript, myBatis, spring boot, thymeleaf
+- **Front-End** : HTML, CSS, JavaScript
+- **Back-End** : Java
 - **DB** : Oracle
-- **API** : 네이버 클라우드 SMS API
+- **FrameWork** : Ajax, MyBatis, Spring Boot, thymeleaf
+- **Devops**: GitHub
+- **API** : SMS API
 
 ## 📌 주요 기능
 #### 마이 페이지 - <a href="https://github.com/hyunowkd/winwin/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80)">상세보기 : WIKI 이동</a>
